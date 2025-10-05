@@ -51,14 +51,12 @@ Microsoft Certified: Azure Security Engineer Associate (AZ-500) exam.
 
 You can learn more about the certification here:
 🔗 Microsoft Learn – AZ-500 Certification
+## ✍️ Author
 
-✍️ Author
-
-Deborah Nyatichi Binyanya
-Information Security & Forensics Professional
-📍 Nairobi, Kenya
-🔗 LinkedIn
-
-📄 License
+**Deborah Nyatichi Binyanya**  
+Information Security & Forensics Professional  
+📍 Nairobi, Kenya  
+🔗 [LinkedIn](https://www.linkedin.com/in/deborah-nyatichi-886b04206)  
+📧 binyanyadebby@gmail.com
 
 This project is licensed under the MIT License – feel free to use and modify for learning or training purposes.
