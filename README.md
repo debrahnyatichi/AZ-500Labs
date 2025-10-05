@@ -23,3 +23,23 @@ Throughout these labs, I worked on the following key areas:
   - Secure storage accounts and databases with RBAC and private endpoints
 ## 🧩 Repository Structure
 
+AZ-500-Azure-Security-Engineer-Labs/
+│
+├── 01_Identity_and_Access/
+│ ├── AzureAD_Configuration.md
+│ ├── Conditional_Access_Lab.md
+│
+├── 02_Platform_Protection/
+│ ├── Firewall_and_NSG_Setup.md
+│ ├── Defender_for_Cloud.md
+│
+├── 03_Security_Operations/
+│ ├── Azure_Sentinel_Integration.md
+│ ├── Incident_Response_Automation.md
+│
+├── 04_Data_and_App_Security/
+│ ├── KeyVault_Secrets_Management.md
+│ ├── Data_Encryption_At_Rest.md
+│
+└── README.md
+
