@@ -24,7 +24,7 @@ Throughout these labs, I worked on the following key areas:
 ## 🧩 Repository Structure
 
 AZ-500-Azure-Security-Engineer-Labs/
-│
+```│
 ├── 01_Identity_and_Access/
 │ ├── AzureAD_Configuration.md
 │ ├── Conditional_Access_Lab.md
@@ -43,3 +43,4 @@ AZ-500-Azure-Security-Engineer-Labs/
 │
 └── README.md
 
+```
