@@ -44,3 +44,21 @@ AZ-500-Azure-Security-Engineer-Labs/
 └── README.md
 
 ```
+🏆 Certification Goal
+
+This project is part of my preparation for the
+Microsoft Certified: Azure Security Engineer Associate (AZ-500) exam.
+
+You can learn more about the certification here:
+🔗 Microsoft Learn – AZ-500 Certification
+
+✍️ Author
+
+Deborah Nyatichi Binyanya
+Information Security & Forensics Professional
+📍 Nairobi, Kenya
+🔗 LinkedIn
+
+📄 License
+
+This project is licensed under the MIT License – feel free to use and modify for learning or training purposes.
